@@ -1,4 +1,4 @@
-# The Lending club
+# The Lending Club
 ## Problem Domain
 Finance/Banking
 ## Problem Statement
